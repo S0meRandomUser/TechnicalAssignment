@@ -1,0 +1,14 @@
+
+}
+java:S1068"5Remove this unused "uniqueContractIds" private field.(÷¨ãŸúÿÿÿÿ8ÒÈ–Üş1J$c6b6da2c-a268-4696-bedc-f4d2bd6b8212
+z
+java:S1068"2Remove this unused "uniqueGeozones" private field.(’Ş…„ÿÿÿÿÿ8ÜÈ–Üş1J$dcdeae8e-be64-42b7-b293-654d861e9e4a
+‰
+java:S1068	"FRemove this unused "uniqueCustomerIdsCountByContractId" private field.(­Ÿñá8ÜÈ–Üş1J$716ec30e-5f1d-47e5-98ae-939f69ea9be0
+‹
+java:S1068
+"CRemove this unused "uniqueCustomerIdsCountByGeozone" private field.(µôÜåøÿÿÿÿ8ÜÈ–Üş1J$6cfc330a-7d97-4633-979e-fc6c68dab47e
+…
+java:S1068"=Remove this unused "avgBuildDurationByGeozone" private field.(š—õûÿÿÿÿ8İÈ–Üş1J$f65a7619-a34d-4281-a5b2-9b8c3f9801f4
+†
+java:S1068">Remove this unused "listOfCustomerIdsByGeozone" private field.(´›ïıÿÿÿÿ8İÈ–Üş1J$4d9e58e7-37df-4f6a-a2dd-fc4dd2e7b8ae

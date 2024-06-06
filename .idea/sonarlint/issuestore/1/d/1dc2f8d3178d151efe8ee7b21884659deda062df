@@ -1,0 +1,13 @@
+
+x
+java:S5976"6Replace these 4 tests with a single Parameterized one.(ä÷²b8Óóúçş1J$7ab80e3e-5909-4bde-96a9-1b47ee143631
+ª
+java:S5778"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ÿ«îÒüÿÿÿÿ8£±èş1J$5fa811a5-98a0-447d-bda2-9cd45ebe13b4
+ª
+java:S5778("bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ÿ«îÒüÿÿÿÿ8­±èş1J$a6d7748f-44d8-4214-ac9d-8a612bcb6fc3
+ª
+java:S57781"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ÿ«îÒüÿÿÿÿ8®±èş1J$fe9a9d71-c0fa-4ee4-b124-bdfc46bbfabf
+ª
+java:S5778:"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ÿ«îÒüÿÿÿÿ8¯±èş1J$cff60cb5-43fc-4d09-b337-b2a671d6aff1
+
+java:S3415D"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(”°ÚÕıÿÿÿÿ8òæüçş1J$453e3f1c-7b5b-418d-8483-a94a6d9095da
